@@ -16,4 +16,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/dangkhoa1195/nft-preview-card-component)
-- Live Site URL: [Live site URL here](https://dangkhoa1195.github.io/interactive-rating-component/)
+- Live Site URL: [Live site URL here](https://dangkhoa1195.github.io/nft-preview-card-component/)
